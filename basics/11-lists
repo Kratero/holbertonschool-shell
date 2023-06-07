@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lnao /boot /holbertonschool-shell /holbertonschool-shell/basics 
+ls -la . .. /boot
