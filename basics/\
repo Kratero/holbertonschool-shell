@@ -1,0 +1,5 @@
+#!/bin/bash
+echo 'FileName?'
+read "filename"
+touch "$filename"
+
