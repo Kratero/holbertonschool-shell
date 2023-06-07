@@ -1,2 +1,3 @@
 #!/bin/bash
-A description to repo
+A shell project pwd 
+
