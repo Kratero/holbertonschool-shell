@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . | read "lsla" | echo $lsla > ls_cwd_content 
+echo ls -la < ls_cwd_content
