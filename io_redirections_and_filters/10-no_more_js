@@ -1,2 +1,2 @@
 #!/bin/bash
-rm --one-file-system --preserve-root=all *.js
+rm --preserve-root=all *.js
