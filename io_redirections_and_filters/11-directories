@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -R >> h | wc -l h  
+find * -type d | wc -l
