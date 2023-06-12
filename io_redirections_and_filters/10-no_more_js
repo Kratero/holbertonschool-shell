@@ -1,2 +1,2 @@
 #!/bin/bash
-find *.js | rm --preserve-root=*/.js *.js
+find *.js | rm --preserve-root=[*/.js] *.js
