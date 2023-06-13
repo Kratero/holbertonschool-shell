@@ -1,1 +1,1 @@
-Aguante el World of Warcraft
+Permissions
