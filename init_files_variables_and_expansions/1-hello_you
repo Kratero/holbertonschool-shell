@@ -1,2 +1,2 @@
-#!/bin/bash2
-echo Hello $(whoami) 
+#!/bin/bash
+echo Hello $(whoami)
